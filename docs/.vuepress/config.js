@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     sidebarDepth: 1,
     lastUpdated: '上次更新',
-    repo: 'https://github.com/xxx',
+    repo: 'https://github.com/amjanney.github.io',
     repoLabel: '查看源码',
     docsDir: 'docs',
     editLinks: true,
